@@ -1,4 +1,4 @@
-# Z30 Recipes · Android 移植版
+# Z30 Recipes · Android  AI移植版
 
 尼康 Z30 无线 Picture Control 配方管理工具 —— 由 iOS 版
 [yekong-nasa/Z30-Recipes](https://github.com/yekong-nasa/Z30-Recipes) 移植为
